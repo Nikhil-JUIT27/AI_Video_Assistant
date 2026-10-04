@@ -5,3 +5,5 @@ __pycache__/
 utils/downloads/
 vector_db/
 __pycache__
+downloads/
+downloades/
